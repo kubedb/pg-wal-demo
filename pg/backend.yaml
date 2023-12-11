@@ -9,7 +9,7 @@ spec:
     s3:
       bucket: mehedi-pg-wal-g
       endpoint: https://ap-south-1.linodeobjects.com
-      region: ap-south-1
+      region: us-east-1
       prefix: backup
       secret: storage
   usagePolicy:
